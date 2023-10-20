@@ -1,0 +1,106 @@
+.mencao-honrosa {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.mencao-honrosa .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1754px;
+  height: 1240px;
+}
+
+.mencao-honrosa .overlap-group {
+  position: relative;
+  height: 1240px;
+  background-image: url(./img/borda2-certificado.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.mencao-honrosa .assinaturas-e {
+  position: absolute;
+  width: 1150px;
+  height: 260px;
+  top: 790px;
+  left: 302px;
+  object-fit: cover;
+}
+
+.mencao-honrosa .group {
+  position: absolute;
+  width: 988px;
+  height: 123px;
+  top: 219px;
+  left: 259px;
+}
+
+.mencao-honrosa .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Lexend Deca", Helvetica;
+  font-weight: 700;
+  color: #0e103f;
+  font-size: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mencao-honrosa .div-wrapper {
+  position: absolute;
+  width: 465px;
+  height: 35px;
+  top: 642px;
+  left: 1013px;
+}
+
+.mencao-honrosa .div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Lexend Deca", Helvetica;
+  font-weight: 400;
+  color: #0e103f;
+  font-size: 27.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mencao-honrosa .premio {
+  position: absolute;
+  width: 172px;
+  height: 219px;
+  top: 171px;
+  left: 1324px;
+  object-fit: cover;
+}
+
+.mencao-honrosa .certificamos-que-o {
+  position: absolute;
+  width: 1223px;
+  top: 471px;
+  left: 265px;
+  font-family: "Lexend Deca", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 27.8px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mencao-honrosa .span {
+  color: #0e103f;
+}
+
+.mencao-honrosa .text-wrapper-2 {
+  color: #44bbd2;
+}
+
+.mencao-honrosa .text-wrapper-3 {
+  font-weight: 700;
+  color: #0e103f;
+}
